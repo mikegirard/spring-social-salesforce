@@ -22,4 +22,9 @@ public interface QueryOperations {
      */
     QueryResult queryAll(String query);
 
+    /**
+     * Execute SOQL query and return results as Iterable (execute queries on Iterable.next()).
+     */
+    Iterable<QueryResult> queryAllPages(String query);
+
 }
