@@ -15,7 +15,8 @@
 
     <slf4j.version>1.6.4</slf4j.version>
     <logback.version>0.9.29</logback.version>
-    <spring-social.version>1.0.2.RELEASE</spring-social.version>
+    <spring-social.version>1.1.0.M1</spring-social.version>
+    <spring-social-test.version>1.0.2.RELEASE</spring-social-test.version>
     <jackson.version>1.8.5</jackson.version>
     <junit.version>4.10</junit.version>
     <mockito.version>1.9.0</mockito.version>
@@ -31,7 +32,7 @@
     <dependency>
       <groupId>org.springframework.social</groupId>
       <artifactId>spring-social-test</artifactId>
-      <version>${spring-social.version}</version>
+      <version>${spring-social-test.version}</version>
       <scope>test</scope>
     </dependency>
     <dependency>
