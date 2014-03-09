@@ -20,6 +20,11 @@
     <junit.version>4.10</junit.version>
     <mockito.version>1.9.0</mockito.version>
     <commons-lang3.version>3.1</commons-lang3.version>
+    <license.inceptionYear>2014</license.inceptionYear>
+    <license.organizationName>the original author or authors.</license.organizationName>
+    <license.projectName>Spring Social Salesforce</license.projectName>
+    <license.licenseName>apache_v2</license.licenseName>
+    <license.includes>**/*.java</license.includes>
   </properties>
 
   <licenses>
