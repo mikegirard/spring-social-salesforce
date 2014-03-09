@@ -25,3 +25,9 @@ To check out the project and build from source, do the following:
  - Retrieve user profile
  - Retrieve user status
  - Update user status
+
+## License
+
+Spring Social Saleforce is released under version 2.0 of the [Apache License].
+
+[Apache License]: http://www.apache.org/licenses/LICENSE-2.0
